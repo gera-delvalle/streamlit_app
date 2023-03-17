@@ -1,4 +1,4 @@
-streamlit
+sstreamlit==1.12.2.
 numpy
 pandas
 plotly_express
